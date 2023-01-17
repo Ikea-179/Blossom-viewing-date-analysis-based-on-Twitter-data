@@ -1,0 +1,1 @@
+The html files are stored in the html folder. The regression plot shown in the report are stored in the regression folder in the previous page. If possible, please use the firefox browser to open Vis2 and Vis5.

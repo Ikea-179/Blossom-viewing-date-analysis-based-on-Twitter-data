@@ -1,0 +1,17 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: #fcf7fa;
+}
+
+header h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 0px;
+vertical-align:middle;
+  color:#DE6B8E;
+}

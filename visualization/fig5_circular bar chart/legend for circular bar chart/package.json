@@ -1,0 +1,14 @@
+{
+  "name": "@e2e3304fe255ae2c/untitled",
+  "main": "65f1f7642de59f65@166.js",
+  "version": "166.0.0",
+  "homepage": "https://observablehq.com/@e2e3304fe255ae2c/untitled",
+  "author": {
+    "name": "Yijia Xue",
+    "url": "https://observablehq.com/@e2e3304fe255ae2c"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
